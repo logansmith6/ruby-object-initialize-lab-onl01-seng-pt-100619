@@ -3,7 +3,7 @@
 
 class Person
 
-  def initialize
+  def initialize(new_name)
     @name = new_name
   end
 
